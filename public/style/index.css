@@ -1,0 +1,10 @@
+.userInput{
+    position: relative;
+    text-align: center;
+    top: 100px;
+}
+#url{
+    position: relative;
+    width: 60%;
+    margin-bottom: 10px;
+}
