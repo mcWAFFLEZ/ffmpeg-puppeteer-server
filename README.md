@@ -10,5 +10,3 @@ This Node.js server takes a user request (url), creates a 10 sec video containin
 <h6>Please make sure you have the node_modules listed above<h6>
 <h6>Server is listening on port 3000<h6>
 <h4>Good luck<h4>
-![alt text](https://i.kym-cdn.com/entries/icons/original/000/029/082/maxresdefault_(2).jpg)
-
